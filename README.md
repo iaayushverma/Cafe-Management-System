@@ -6,5 +6,5 @@ Clicking on the Total button calculates the entire bill.
 Reciept is used to maintain a record of items sold.
 Reset Button can be used to disable all checkboxes and quantity textboxes.
 
-<img src="https://github.com/ashnakapoor07/cafe-management-system/blob/master/rms.png">
+<img src="https://github.com/iaayushverma/cafe-management-system/blob/master/cms.png">
 
