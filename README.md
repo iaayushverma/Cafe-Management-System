@@ -1,4 +1,4 @@
-# Cafe-Management-System
+# Restaurant-Management-System
 Desktop Application made using Tkinter in Python.
 By default the checkboxes are reset and quantity is zero.
 On checking the  checkboxes user needs to enter the quantity of item desired.
